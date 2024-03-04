@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: nginx
+        image: jinkavenky567/aws:devops
