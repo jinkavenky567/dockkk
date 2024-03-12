@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: jinkavenky567/aws:devops
+        image: jinkavenky567/dev:repo
